@@ -1,4 +1,4 @@
-#Simple generator YES or NO on Raspberry Pi 2
+##Simple generator YES or NO on Raspberry Pi 2
 
 This code requires node.js and onoff npm package.
 
